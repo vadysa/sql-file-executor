@@ -1,0 +1,6 @@
+{
+  "InputFilePath": null,
+  "OutputFilePath": null,
+  "Delimiter": "\t",
+  "ConnectionString": "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\\db.mdf;Integrated Security=True;Connect Timeout=30"
+}

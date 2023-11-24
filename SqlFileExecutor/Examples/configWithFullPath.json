@@ -1,0 +1,6 @@
+{
+  "InputFilePath": "C:\\Test\input.txt",
+  "OutputFilePath": "C:\\Test2\output.csv",
+  "Delimiter": ",",
+  "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=testdb;Trusted_Connection=True;"
+}
